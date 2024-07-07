@@ -4,6 +4,6 @@
   status = 200
 
 [[headers]]
-  for = "/*.js"
+  for = "/*.jsx"
   [headers.values]
-    Content-Type = "text/javascript"
+    Content-Type = "application/javascript"
